@@ -1,0 +1,23 @@
+
+h1 {
+    background-color:tomato;
+   }
+   *{background-color: mediumspringgreen;}
+   h2{background-color: chocolate;}
+
+   h1{
+       border: solid;
+       margin-top: 50px;
+    justify-content: space-between;
+
+   }
+   
+    
+.main{
+    border: solid;
+    background-color: aliceblue;
+    display: flex;
+    flex-wrap: wrap;
+    margin-right:50px ;
+    padding:50px;
+}
